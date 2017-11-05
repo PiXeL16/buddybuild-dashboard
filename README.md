@@ -45,8 +45,8 @@ Run `dashing start -d -p 3031` to run it as a daemon and to specify the port. Yo
 
 See https://github.com/Shopify/dashing/wiki for more details.
 
-## Docker support
-
+:whale: Docker support
+-------
 You can spin up a Docker container with the dashboard by running:
 
 `docker-compose up -d`

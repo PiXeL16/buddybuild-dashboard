@@ -30,7 +30,7 @@ Edit `config/builds.json` with the configuration for your builds:
 }
 ```
 
-Place your BuddyBuild auth token in a `.env` file at the root of the project.
+Place your BuddyBuild `Auth Token` in a `.env` file at the root of the project.
 It should look something like this:
 
 ```

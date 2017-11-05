@@ -1,13 +1,11 @@
 {
-  "dashboardTitle": "iOS Build Status",
+  "dashboardTitle": "Build Status",
   "buddyBuildApiBaseUrl": "https://api.buddybuild.com",
   "buddyBuildDashboardBaseUrl": "https://dashboard.buddybuild.com/apps/",
 
-  "buddyBuildAppID": "598c2809221fec0001276dd1",
+  "buddyBuildAppID": "asdfasdf",
   "branches": [
     "master",
-    "alpha",
-    "integration",
-    "appstore"
+    "alpha"
   ]
 }

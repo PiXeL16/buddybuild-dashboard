@@ -1,0 +1,32 @@
+$background-color:  #999999;
+$value-color:       #fff;
+
+$title-color:       rgba(255, 255, 255, 0.7);
+$moreinfo-color:    rgba(255, 255, 255, 0.7);
+
+.widget-build-window {
+
+  background-color: $background-color;
+
+  border-radius: 15px;
+
+  .title {
+    color: $title-color;
+  }
+
+  .value {
+    color: $value-color;
+  }
+
+  .more-info {
+    color: $moreinfo-color;
+  }
+
+  .updated-at {
+    color: rgba(0, 0, 0, 0.3);
+  }
+
+  .small {
+    font-size: 0.6em;
+  }
+}

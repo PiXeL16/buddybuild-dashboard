@@ -1,0 +1,23 @@
+<% content_for :title do %><%= Builds::DASHBOARD_TITLE %><%end %>
+<div class="gridster">
+  <ul>
+    <%
+      if (Builds::BRANCH_LIST.count > 4) then
+        num_cols = 4
+        widget_size = 1
+      else
+        num_cols = 2
+        widget_size = 2
+      end
+    %>
+    <% Builds::BRANCH_LIST.each_with_index do |branch, index| %>
+      <% build_num = index + 1 %>
+      <li data-row="<%= build_num % num_cols == 0 ? build_num / num_cols : build_num / num_cols + 1 %>"
+        data-col="<%= build_num % num_cols == 0 ? num_cols : build_num % num_cols %>"
+        data-sizex="<%= widget_size %>" data-sizey="1">
+        <div data-id="<%= branch %>"
+          data-view="BuildWindow"></div>
+      </li>
+    <% end %>
+  </ul>
+</div>

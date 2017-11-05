@@ -3,7 +3,7 @@
 </p>
 
 [![Build Status](https://travis-ci.org/PiXeL16/buddybuilddashboard.svg?branch=master)](https://travis-ci.org/PiXeL16/buddybuilddashboard)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 BuddyBuild Dashboard was build using [Dashing](http://shopify.github.com/dashing) and based on ideas and the work in [build-window](https://github.com/rouanw/build-window). Great to show your most important builds in a TV.
 

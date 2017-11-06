@@ -58,6 +58,10 @@ The application will be ready at `http://localhost:3030` (Linux) or at `http://<
 
 You can also build the image and run a container separately, but [Docker Compose](https://docs.docker.com/compose/install/) makes this process much simpler.
 
+:tv: Using
+----
+You can use a ChromeCast to present the dashboard in a TV and use an extension like [Rotisserie](https://chrome.google.com/webstore/detail/rotisserie-url-rotator/iljemanjjfjlglhkmojkmfbpphiaheja?hl=en) to rotate between other dashboards.
+
 :100: Contributing
 -----
 Pull requests are very welcome. Run the tests with `rspec`.

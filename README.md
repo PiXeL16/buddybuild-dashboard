@@ -2,7 +2,7 @@
   <img id="header" src="./banner.png" />
 </p>
 
-[![Build Status](https://travis-ci.org/PiXeL16/buddybuilddashboard.svg?branch=master)](https://travis-ci.org/PiXeL16/buddybuilddashboard)
+[![Build Status](https://travis-ci.org/PiXeL16/buddybuild-dashboard.svg?branch=master)](https://travis-ci.org/PiXeL16/buddybuilddashboard)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 BuddyBuild Dashboard was build using [Dashing](http://shopify.github.com/dashing) and based on ideas and the work in [build-window](https://github.com/rouanw/build-window). Great to show your most important builds in a TV.
@@ -81,4 +81,4 @@ If you want to buy me a beer, you can donate to my coin addresses below:
 Ld6FB3Tqjf6B8iz9Gn9sMr7BnowAjSUXaV
 
 ## License
-`BuddyBuild Dashboard` is released under the MIT license. See [LICENSE](https://github.com/pixel16/buddybuilddashboard/blob/master/LICENSE) for details.
+`BuddyBuild Dashboard` is released under the MIT license. See [LICENSE](https://github.com/pixel16/buddybuild-dashboard/blob/master/LICENSE) for details.
